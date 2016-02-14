@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TiledBackground.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\EmemyController.cs" Line="10" Column="29" />
+      <File FileName="Assets\Scripts\PortalController.cs" Line="2" Column="34" />
+      <File FileName="Assets\Scripts\Level1Manager.cs" Line="15" Column="36" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="18" Column="4" />
+      <File FileName="Assets\Scripts\TiledBackground.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
